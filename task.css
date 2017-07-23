@@ -1,0 +1,13 @@
+body{
+	margin:0;
+	padding:0;
+	width:100%;
+}
+div.box{
+	float:left;
+	width:30%;
+	padding-top:30%;
+	margin:1% 1%;
+	background:yellow;
+	border-radius: 10%
+}
