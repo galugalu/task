@@ -1,0 +1,18 @@
+body{
+    background-color: #68cdd5;
+    color:white;
+}
+div.title{
+    margin:5% auto;
+    text-align:center;
+    font-size:1.4em;
+    padding:0 8% 10% 8%;
+}
+div.left{
+    float:left;
+    margin-left:15%;
+}
+div.right{
+    margin-right:15%;
+    float:right;
+}
