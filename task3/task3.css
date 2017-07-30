@@ -3,28 +3,26 @@ body{
     color:white;
     padding:0;
     margin:0;
+    overflow: hidden;
 }
 div.back{
-    padding:1% 0 0 1%;
+    padding:2rem;
 }
 div.title{
-    margin:0 auto;
     text-align:center;
     font-size:1.4em;
 }
 .title p{
-    padding:5% 10% 10% 10%;
+    padding:5rem 3rem;
     text-align:left;
-    line-height:1.6em;
+    line-height:1.8em;
     letter-spacing:0.1em;
 }
 div.left{
     float:left;
-    margin-left:15%;
-    margin-top:8%;
+    padding:5rem 0 0 6rem;
 }
 div.right{
-    margin-right:15%;
     float:right;
-    margin-top:8%;
+    padding:5rem 6rem 0 0;
 }
