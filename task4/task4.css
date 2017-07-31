@@ -4,6 +4,8 @@
 }
 body{
     background: #eff0f4;
+    width:100%;
+    overflow:hidden;
 }
 header{
     background-color: #5fc0cd;
@@ -49,6 +51,18 @@ input{
     padding-left:1rem;
 }
 ::-webkit-input-placeholder {
+    color:#eff0f4;
+    font-size:1.6rem;
+}
+:-moz-placeholder {
+    color:#eff0f4;
+    font-size:1.6rem;
+}
+::-moz-placeholder {
+    color:#eff0f4;
+    font-size:1.6rem;
+}
+:-ms-input-placeholder {
     color:#eff0f4;
     font-size:1.6rem;
 }
